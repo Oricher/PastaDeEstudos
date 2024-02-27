@@ -1,0 +1,9 @@
+body {
+    align-items: center;
+    background: linear-gradient(45deg, #8fcae0 0%,#14509e 100%);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 100vh;
+    font-size: 30px;
+}
